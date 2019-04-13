@@ -1,0 +1,63 @@
+#menu{
+    width: 10%;  	
+    border-width: 10px; 
+    border-color: red;
+    padding: 5px 5px 10px 0px;
+    border-style:solid;
+    float:left;
+}
+
+#contenido{
+    width:85%;
+    margin-left: 10px;
+    border-color:orange  ;
+    padding: 5px 5px 10px 5px;
+    border-width: thick; 
+    border-style: solid;
+    float:left;
+}
+#pie{
+    /**
+    Para centrar texto
+    */
+    text-align: center;
+    /**
+    Alcho de la caja
+    */
+    width:96%;
+    /*
+    Altura de la caja
+    */
+    height: 100px;
+    /*
+    Margen desde la izquierda
+    */
+    margin-left:10px;
+    /*
+    Margen de la parte superior
+    */
+    margin-top: 10px;
+    /*
+    Color del borde
+    */
+    border-color:blue;
+    /*
+    Tamaño del borde
+    */
+    border-width: thick; 
+    /*
+    Estilo del borde
+    */
+    border-style: solid;
+    /*
+    Para los relllenos de un elemento
+    */
+    padding: 5px 5px 5px 20px;
+    
+    float:left;
+    
+
+    
+
+}
+
