@@ -1,4 +1,4 @@
-#cabecera{
+.cabecera{
     /*
     Para el tamaño de la cajita
     */
@@ -40,7 +40,7 @@
     
     margin-left: 10px;
 }
-#pie{
+.pie{
     /**
     Para centrar texto
     */
@@ -52,7 +52,7 @@
     /*
     Altura de la caja
     */
-    height: 100px;
+    height: 150px;
     /*
     Margen desde la izquierda
     */

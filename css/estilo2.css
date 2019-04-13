@@ -1,8 +1,9 @@
-#cabecera{
+
+.cabecera{
     /*
     Para el tamaño de la cajita
     */
-    width:95%;
+    width:97%;
     /*
     Propiedades del borde
     */
@@ -18,8 +19,8 @@
 
 
 #menu{
-    width: 10%
-    ;  	
+    width: 10%;  
+    	
     border-width: 10px; 
     border-style:solid;
     border-color: red;
@@ -29,7 +30,7 @@
 }
 
 #contenido{
-    width:60%;
+    width:50%;
     
     border-width: 10px; 
     border-style: solid;
@@ -40,20 +41,19 @@
     
     margin-left: 10px;
 }
-
-#lateral    {
-    width:20%;
+#lateral{
+    width: 30%;  
+    	
     border-width: 10px; 
-    border-style: solid;
-    border-color:orange ;
+    border-style:solid;
+    border-color: orange;
 
-    margin-left:10px;
-    padding: 5px 5px 5px 20px;
+    padding: 5px 5px 10px 10px;
+    margin-left: 10px;
     float:left;
 
 }
-
-#pie{
+.pie{
     /**
     Para centrar texto
     */
@@ -61,7 +61,7 @@
     /**
     Alcho de la caja
     */
-    width:95%;
+    width:96%;
     /*
     Altura de la caja
     */
@@ -97,4 +97,3 @@
     
 
 }
-
