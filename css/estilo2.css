@@ -2,7 +2,7 @@
     /*
     Para el tamaño de la cajita
     */
-    width:97%;
+    width:95%;
     /*
     Propiedades del borde
     */
@@ -29,7 +29,7 @@
 }
 
 #contenido{
-    width:85%;
+    width:60%;
     
     border-width: 10px; 
     border-style: solid;
@@ -40,6 +40,19 @@
     
     margin-left: 10px;
 }
+
+#lateral    {
+    width:20%;
+    border-width: 10px; 
+    border-style: solid;
+    border-color:orange ;
+
+    margin-left:10px;
+    padding: 5px 5px 5px 20px;
+    float:left;
+
+}
+
 #pie{
     /**
     Para centrar texto
@@ -48,7 +61,7 @@
     /**
     Alcho de la caja
     */
-    width:96%;
+    width:95%;
     /*
     Altura de la caja
     */
