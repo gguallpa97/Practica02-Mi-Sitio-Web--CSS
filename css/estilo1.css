@@ -22,7 +22,7 @@
     width: 10%; 	 
     border:10px solid;
     border-color: aqua;
-    background-color:red;
+    background-color:white;
     border-radius:22px;
     
 
@@ -35,6 +35,17 @@
     
 
 
+}
+#menu2{
+    width: 97%; 	 
+    border:10px solid;
+    border-color: aqua;
+    background-color:white;
+    border-radius:22px; 
+    padding: 5px 5px 10px 0px;
+    float:left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15pt;  
 }
 
 #contenido{
