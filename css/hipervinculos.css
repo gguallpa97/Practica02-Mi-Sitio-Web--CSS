@@ -1,0 +1,28 @@
+/* muestra en azul los links no visitados */
+a:link {
+color: #006;
+}
+
+/* muestra en gris los links visitados */
+a:visited {
+color:#999;
+}
+
+/* muestra en rojo claro los links focalizados */
+a:focus {
+color: #f00;
+}
+
+/* muestra en rojo los links en hover , al mover el raton*/
+a:hover {
+color:#a00;
+}
+
+/* muestra en rojo claro los links activos */
+a:active {
+color:#f00;
+}
+
+
+
+
