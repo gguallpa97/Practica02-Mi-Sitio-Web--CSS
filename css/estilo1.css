@@ -1,6 +1,6 @@
 .cabecera{
     /*
-    Para el tamaño de la cajita
+    Para el tamaño de la caja
     */
     width:97%;
     /*
@@ -11,7 +11,7 @@
     border-color:blue;
     
     /*
-    Para separar la cajitas
+    Para separar la caja
     */
     margin-bottom:10px;
 
@@ -19,38 +19,58 @@
 
 
 #menu{
-    width: 10%; 	 
+	/*
+	Tamaño de la caja 
+	*/
+    width: 10%; 
+	
+	/*
+	Propiedades de borde
+	*/
     border:10px solid;
     border-color: aqua;
     background-color:white;
     border-radius:22px;
     
-
+	/*
+	Relleno
+	*/
     padding: 5px 5px 10px 0px;
     float:left;
 
+	/*
+	Propiedades del letra
+	*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15pt;
-    
-    
-
-
 }
 #menu2{
-    width: 97%; 	 
+	/*
+	Tamaño de la caja
+	*/
+    width: 97%; 	
+	/*
+	Propiedades de borde
+	*/
     border:10px solid;
     border-color: aqua;
     background-color:white;
     border-radius:22px; 
+	/*
+	Relleno
+	*/
     padding: 5px 5px 10px 0px;
     float:left;
+	/*
+	Propiedades del letra
+	*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15pt;  
 }
 #menu3{
     width: 30%; 	 
     border:10px solid;
-    border-color: aqua;
+    border-color: green;
     background-color:white;
     border-radius:22px; 
     padding: 5px 5px 10px 0px;
@@ -110,10 +130,6 @@
     padding: 5px 5px 5px 20px;
     
     float:left;
-    
-
-    
-
 }
 
 body {
