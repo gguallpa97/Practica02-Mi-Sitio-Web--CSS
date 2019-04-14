@@ -19,14 +19,22 @@
 
 
 #menu{
-    width: 10%;  
-    	
-    border-width: 10px; 
-    border-style:solid;
-    border-color: red;
+    width: 10%; 	 
+    border:10px solid;
+    border-color: aqua;
+    background-color:red;
+    border-radius:22px;
+    
 
     padding: 5px 5px 10px 0px;
     float:left;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15pt;
+    
+    
+
+
 }
 
 #contenido{
@@ -96,4 +104,14 @@
 
     
 
+
+}
+body {
+    background-color: #F5F5F5;
+    }
+body{
+	background-image:center;
+    background-image: url("../images/totus.jpg" );
+    background-repeat: no-repeat;
+    background-size:cover ;
 }
