@@ -1,0 +1,15 @@
+.tabla{
+	
+	border:10px solid;
+    border-color: green;
+    background-color:white;
+    border-radius:22px;
+	
+	empty-cells: hide;
+	margin-left: 200px;	
+	border-spacing:10px;
+	
+}
+
+
+
